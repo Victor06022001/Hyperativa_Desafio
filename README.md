@@ -17,6 +17,6 @@ Tabela de conteúdos
    * [Autor](#autor)
 <!--te-->
  
-# Status do Projeto
+# Status
 
 <p>Completo.</p>
