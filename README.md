@@ -1,6 +1,6 @@
 # Hyperativa_Desafio.
 
-<p>Este é um projeto que foi estruturado pela Hyperativa para o <b>Estágio em front-end</b>, e tem como objetivo testar as capacidades técnicas dos participantes. O desafio primeiramente era arrumar a linha de codigos de uma Campanha, onde, devíamos deixá-la com a menor quantidade de imagens possíveis para que não fosse considerada como <b>SPAM</b>, a segunda parte do desafio era melhorar o design utilizando dos exemplos cedidos na plataforma <a href="https://zeplin.io/">zeplin</a> para criar um novo design, além da montagem de um novo código com base no do primeiro exercício.</p>
+<p>Este é um projeto que foi estruturado pela Hyperativa para a vaga <b>"Estágio em front-end"</b>, e tem como objetivo testar as capacidades técnicas dos participantes. O desafio primeiramente era arrumar a linha de codigos de uma Campanha, onde, devíamos deixá-la com a menor quantidade de imagens possíveis para que não fosse considerada como <b>SPAM</b>, a segunda parte do desafio era melhorar o design utilizando dos exemplos cedidos na plataforma <a href="https://zeplin.io/">zeplin</a> para criar um novo design, além da montagem de um novo código com base no do primeiro exercício.</p>
 
 ## Descrição do Projeto.
 
@@ -35,7 +35,7 @@ Tabela de conteúdos
 # Links.
 
 <p><a href="https://zpl.io/aMEzKlN">Link WEB para acesso do Projeto no Zeplin</a></p>
-<p><a href="https://www.figma.com/file/QCgXdYgOJzYLfrkJH3NW90/Desing_Desafio">Link do Bannar da Campanha no Figma</a></p>
+<p><a href="https://www.figma.com/file/QCgXdYgOJzYLfrkJH3NW90/Desing_Desafio">Link do Banner da Campanha no Figma</a></p>
 
 # Autor.
 
