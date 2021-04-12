@@ -31,3 +31,7 @@ Tabela de conteúdos
 # Status
 
 <p>Completo.</p>
+
+# Links
+
+<p><a href="https://zpl.io/aMEzKlN">Link WEB para acesso do Projeto no Zeplin</a></p>
