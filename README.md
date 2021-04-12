@@ -35,7 +35,7 @@ Tabela de conteúdos
 # Links.
 
 <p><a href="https://zpl.io/aMEzKlN">Link WEB para acesso do Projeto no Zeplin</a></p>
-<p><a href="https://www.figma.com/file/QCgXdYgOJzYLfrkJH3NW90/Desing_Desafio">Link do Bannar da Campanha no Figma</a></p>
+<p><a href="https://www.figma.com/file/QCgXdYgOJzYLfrkJH3NW90/Desing_Desafio?node-id=0%3A1">Link do Bannar da Campanha no Figma</a></p>
 
 # Autor.
 
