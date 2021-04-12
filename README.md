@@ -21,11 +21,11 @@ Tabela de conteúdos
 
 <p>Os dois desafios estão localizados dentro da pasta <b><i>Hyperativa_Desafio</b></i>, lá encontrara duas pastas intituladas "Ex_1" e "Ex_2".</p>
 
-# Exercício 1
+## Exercício 1
 
 <p>- Na pasta "Ex_1" existem dois arquivos "Imagens" onde estão localizadas as imagens utilizadas no HTML e o código cedido pela Hyperativa, para utiliza-lo primeiro deve-se criar uma pasta onde serão guardados os aruqivos, depois de terminadas as instalações deve-se compilar o código no editor de código de seu agrado.</p>
   
- # Exercício 2
+ ## Exercício 2
  <p> Utilize das mesmas instruções para o "Ex_2"</p>
 
 # Status
