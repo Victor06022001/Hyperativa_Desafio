@@ -17,7 +17,7 @@ Tabela de conteúdos
    * [Autor](#autor)
 <!--te-->
  
-# Como usar
+# Como usar.
 
 <p>Os dois desafios estão localizados dentro da pasta <b><i>Hyperativa_Desafio</b></i>, lá encontrara duas pastas intituladas "Ex_1" e "Ex_2".</p>
 
@@ -28,10 +28,17 @@ Tabela de conteúdos
  ### Exercício 2
  <p> Utilize das mesmas instruções para o "Ex_2"</p>
 
-# Status
+# Status.
 
 <p>Completo.</p>
 
-# Links
+# Links.
 
 <p><a href="https://zpl.io/aMEzKlN">Link WEB para acesso do Projeto no Zeplin</a></p>
+<p><a href="zpl://project?pid=607367c8b9fdd13c9f04c503">Link APP para o Projeto no Zeplin</a></p>
+<p><a href="https://www.figma.com/file/QCgXdYgOJzYLfrkJH3NW90/Desing_Desafio">Link do Bannar da Campanha no Figma</a></p>
+
+# Autor.
+
+<p>Victor Hugo Brito de Faria</p>
+
