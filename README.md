@@ -12,10 +12,11 @@ Tabela de conteúdos
    * [Como usar](#como-usar)
       * [Exercício 1](#exercício-1)
       * [Exercício 2](#exercício-2)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+   * [Status](#status)
+   * [Links](#Links)
+   * [Autor](#autor)
 <!--te-->
  
+# Status do Projeto
+
+<p>Completo.</p>
